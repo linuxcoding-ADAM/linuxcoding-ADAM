@@ -1,4 +1,4 @@
-# Hi there 👋, I'm ADAM MIla 
+# Hi there 👋, I'm ADAM Mila 
 
 ## About Me
 - 👨‍💻 A passionate student and developer
@@ -24,6 +24,7 @@ Here are some of my highlighted projects:
 ## Contact
 - 📧 Email: linuxcoding3@gmail.com
 - 📷 Instagram: https://www.instagram.com/41_64_61_6d_20_6d_69_6c_61/
+- 📘 Facebook:  https://web.facebook.com/adam.root.1414/
 
 ---
 
