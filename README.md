@@ -14,14 +14,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Projects
+## 💻Projects
 Here are some of my highlighted projects:
 - **File Sharing Platform called Adam Hub** – A web-based file-sharing system using **HTML, CSS, JavaScript, and Python Flask** featuring:
 - File organizer for managing files efficiently
 - Links scanner for safe and organized file sharing
 - **Mini Web Apps** – Various small apps built with Python and JavaScript for learning and experiments
 
-  ## Contact Me
+  ## 📞Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linuxcoding3@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/41_64_61_6d_20_6d_69_6c_61/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/adam.root.1414/)
