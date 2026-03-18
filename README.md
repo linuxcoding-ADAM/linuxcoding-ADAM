@@ -14,12 +14,7 @@
 
 ## 🧠 About Me
 
-```yaml
-name:    "Adam Mila"
-passion: ["Web Dev", "Linux", "Bash", "Mobile Apps", "Firebase"]
-learning: ["AI Integration", "LLM APIs", "Smart Web & Mobile Apps"]
-motto:   "Build first. Break things. Learn fast."
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=AAAAAA&center=true&vCenter=true&multiline=true&repeat=false&width=620&height=110&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+name+%3A+Adam+Mila;%F0%9F%94%A5+passion+%3A+Web+Dev+%7C+Linux+%7C+Bash+%7C+Mobile+%7C+Firebase;%F0%9F%A4%96+learning+%3A+AI+Integration+%7C+LLM+APIs+%7C+Smart+Apps;%F0%9F%9A%80+motto+%3A+Build+first.+Break+things.+Learn+fast." alt="About Me" />
 
 </div>
 
@@ -80,23 +75,8 @@ motto:   "Build first. Break things. Learn fast."
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.mila.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/41_64_61_6d_20_6d_69_6c_61/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/adam.root.1414/)
-
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=3000&color=00D9FF&center=true&vCenter=true&width=440&lines=Let%27s+build+cool+things+together+%F0%9F%9A%80;Open+to+collabs+%26+cool+projects+%F0%9F%A4%9D;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Footer message"/>
 
-<br>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=linuxcodingADAM&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=80&section=footer" width="100%"/>
-
-</div>
-║   Let's build cool things together   ║
-╚══════════════════════════════════════╝
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
