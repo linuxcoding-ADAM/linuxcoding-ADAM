@@ -14,7 +14,12 @@
 
 ## 🧠 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=name+%3A+%22Adam+Mila%22;passion+%3A+%5BWeb+Dev%2C+Linux%2C+Bash%2C+Mobile%2C+Firebase%5D;learning+%3A+%5BAI+Integration%2C+LLM+APIs%2C+Smart+Apps%5D;motto+%3A+%22Build+first.+Break+things.+Learn+fast.%22" alt="About Me"/>
+```yaml
+name:    "Adam Mila"
+passion: ["Web Dev", "Linux", "Bash", "Mobile Apps", "Firebase"]
+learning: ["AI Integration", "LLM APIs", "Smart Web & Mobile Apps"]
+motto:   "Build first. Break things. Learn fast."
+```
 
 </div>
 
@@ -75,7 +80,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.mila.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/41_64_61_6d_20_6d_69_6c_61/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/adam.root.1414/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/adam.root.1414/)
 
 <br>
 
@@ -83,23 +88,11 @@
 
 <br>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=linuxcoding-ADAM&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=linuxcodingADAM&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=80&section=footer" width="100%"/>
 
 </div>
-
-</div>
-[![Facebook](https://img.shields.io/badge/Facebook-Adam.Root-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/adam.root.1414/)
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════╗
 ║   Let's build cool things together   ║
 ╚══════════════════════════════════════╝
 ```
