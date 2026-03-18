@@ -59,11 +59,11 @@
 
 | Project | Stack | Description |
 |:-------:|:-----:|:-----------:|
-| **Adam Hub** | `Flask` `JS` `HTML/CSS` | Web-based file sharing platform |
-| **ST Affichage** | `Python` `HTML/CSS` | Smart display & scheduling system |
-| **Adhan Countdown** | `JavaScript` `HTML/CSS` | Prayer time countdown web app |
-| **Base Converter** | `JavaScript` `HTML/CSS` | Number base conversion tool |
-| **Mini Web Apps** | `Python` `JavaScript` | Small tools & coding experiments |
+| **Adam Hub** | `Flask` `JS` `HTML/CSS` | Web-based file sharing platform. |
+| **ST Affichage** | `Python` `HTML/CSS` | Smart display & scheduling system. |
+| **Adhan Countdown** | `JavaScript` `HTML/CSS` | Prayer time countdown web app. |
+| **Base Converter** | `JavaScript` `HTML/CSS` | Number base conversion tool. |
+| **Mini Web Apps** | `Python` `JavaScript` | Small tools & coding experiments. |
 
 </div>
 
