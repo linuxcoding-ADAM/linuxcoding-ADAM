@@ -2,16 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=120&section=header" width="100%"/>
 
-```
- █████╗ ██████╗  █████╗ ███╗   ███╗
-██╔══██╗██╔══██╗██╔══██╗████╗ ████║
-███████║██║  ██║███████║██╔████╔██║
-██╔══██║██║  ██║██╔══██║██║╚██╔╝██║
-██║  ██║██████╔╝██║  ██║██║ ╚═╝ ██║
-╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=ADAM+MILA" alt="ADAM MILA"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Student+%26+Developer+%F0%9F%9A%80;Web+%7C+Linux+%7C+Mobile+%7C+Cloud;Integrating+AI+into+everything+%F0%9F%A4%96;Build+first.+Break+things.+Learn+fast.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Student+%26+Developer+%F0%9F%9A%80;Web+%7C+Linux+%7C+Mobile+%7C+Cloud;Integrating+AI+into+everything+%F0%9F%A4%96;Build+first.+Break+things.+Learn+fast.;Always+shipping+something+new+%E2%9C%A8" alt="Typing animation"/>
 
 </div>
 
@@ -21,14 +14,9 @@
 
 ## 🧠 About Me
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=name+%3A+%22Adam+Mila%22;passion+%3A+%5BWeb+Dev%2C+Linux%2C+Bash%2C+Mobile%2C+Firebase%5D;learning+%3A+%5BAI+Integration%2C+LLM+APIs%2C+Smart+Apps%5D;motto+%3A+%22Build+first.+Break+things.+Learn+fast.%22" alt="About Me"/>
 
-```yaml
-name:    "Adam Mila"
-passion: ["Web Dev", "Linux", "Bash", "Mobile Apps", "Firebase"]
-learning: ["AI Integration", "LLM APIs", "Smart Web & Mobile Apps"]
-motto:   "Build first. Break things. Learn fast."
-```
+</div>
 
 ---
 
@@ -72,19 +60,10 @@ motto:   "Build first. Break things. Learn fast."
 | Project | Stack | Description |
 |:-------:|:-----:|:-----------:|
 | **Adam Hub** | `Flask` `JS` `HTML/CSS` | Web-based file sharing platform |
+| **ST Affichage** | `Python` `HTML/CSS` | Smart display & scheduling system |
+| **Adhan Countdown** | `JavaScript` `HTML/CSS` | Prayer time countdown web app |
+| **Base Converter** | `JavaScript` `HTML/CSS` | Number base conversion tool |
 | **Mini Web Apps** | `Python` `JavaScript` | Small tools & coding experiments |
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=linuxcoding-ADAM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxcoding-ADAM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
 
 </div>
 
@@ -94,15 +73,21 @@ motto:   "Build first. Break things. Learn fast."
 
 ## 📞 Connect
 
-[![Email](https://img.shields.io/badge/Gmail-adam.mila.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.mila.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.mila.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/41_64_61_6d_20_6d_69_6c_61/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/adam.root.1414/)
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=3000&color=00D9FF&center=true&vCenter=true&width=440&lines=Let%27s+build+cool+things+together+%F0%9F%9A%80;Open+to+collabs+%26+cool+projects+%F0%9F%A4%9D;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Footer message"/>
 
 <br>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=linuxcoding-ADAM&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=80&section=footer" width="100%"/>
+
+</div>
 
 </div>
 [![Facebook](https://img.shields.io/badge/Facebook-Adam.Root-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/adam.root.1414/)
