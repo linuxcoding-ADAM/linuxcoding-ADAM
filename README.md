@@ -14,7 +14,10 @@
 
 ## 🧠 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=AAAAAA&center=true&vCenter=true&multiline=true&repeat=false&width=620&height=110&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+name+%3A+Adam+Mila;%F0%9F%94%A5+passion+%3A+Web+Dev+%7C+Linux+%7C+Bash+%7C+Mobile+%7C+Firebase;%F0%9F%A4%96+learning+%3A+AI+Integration+%7C+LLM+APIs+%7C+Smart+Apps;%F0%9F%9A%80+motto+%3A+Build+first.+Break+things.+Learn+fast." alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=AAAAAA&center=true&vCenter=true&repeat=false&width=580&height=30&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+name+%3A+Adam+Mila" alt="name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=AAAAAA&center=true&vCenter=true&repeat=false&width=580&height=30&lines=%F0%9F%94%A5+passion+%3A+Web+Dev+%7C+Linux+%7C+Bash+%7C+Mobile+%7C+Firebase" alt="passion" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=AAAAAA&center=true&vCenter=true&repeat=false&width=580&height=30&lines=%F0%9F%A4%96+learning+%3A+AI+Integration+%7C+LLM+APIs+%7C+Smart+Apps" alt="learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=AAAAAA&center=true&vCenter=true&repeat=false&width=580&height=30&lines=%F0%9F%9A%80+motto+%3A+Build+first.+Break+things.+Learn+fast." alt="motto" />
 
 </div>
 
@@ -59,11 +62,11 @@
 
 | Project | Stack | Description |
 |:-------:|:-----:|:-----------:|
-| **Adam Hub** | `Flask` `JS` `HTML/CSS` | Web-based file sharing platform. |
-| **ST Affichage** | `Python` `HTML/CSS` | Smart display & scheduling system. |
-| **Adhan Countdown** | `JavaScript` `HTML/CSS` | Prayer time countdown web app. |
-| **Base Converter** | `JavaScript` `HTML/CSS` | Number base conversion tool. |
-| **Mini Web Apps** | `Python` `JavaScript` | Small tools & coding experiments. |
+| **Adam Hub** | `Flask` `JS` `HTML/CSS` | Web-based file sharing platform |
+| **ST Affichage** | `Python` `HTML/CSS` | Smart display & scheduling system |
+| **Adhan Countdown** | `JavaScript` `HTML/CSS` | Prayer time countdown web app |
+| **Base Converter** | `JavaScript` `HTML/CSS` | Number base conversion tool |
+| **Mini Web Apps** | `Python` `JavaScript` | Small tools & coding experiments |
 
 </div>
 
