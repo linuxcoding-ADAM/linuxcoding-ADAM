@@ -25,16 +25,15 @@
 
 ---
 
-## 💻 `$ cat currently.txt`
+## 💻 `$ neofetch`
 
 ```text
-adam@bejaia:~$ whoami
-student · developer · linux user
-
-adam@bejaia:~$ cat currently.txt
-building → Moula (finance) & St Affichage (university platform)
-learning → Rust · AI integration · LLM APIs
-stack    → TypeScript · React · Next.js · Firebase
+adam@bejaia
+------------
+OS       Linux (Fedora) · zsh · VS Code
+Uptime   building since day one
+Stack    TypeScript · React · Next.js · Firebase · Rust
+Focus    web apps, CLI tools, things that push notifications
 
 adam@bejaia:~$ ls ~/dev
 base_304  data_organizer  forsati  lhadjcad  moodle-notifier  moula  ...
@@ -50,7 +49,7 @@ base_304  data_organizer  forsati  lhadjcad  moodle-notifier  moula  ...
 
 **Frontend**
 
-![](https://skillicons.dev/icons?i=react,nextjs,tailwind,reactnative,vite,html,css&theme=dark)
+![](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark)
 
 **Backend & Data**
 
@@ -130,22 +129,41 @@ Multilingual youth-opportunities platform — Arabic · French · English · Kab
 </tr>
 </table>
 
+<details>
+<summary><b>🧪 More from the lab</b> — other tools I've shipped</summary>
+
+<br>
+
+| Tool | What it does |
+|---|---|
+| [moodle-notifier](https://github.com/linuxcoding-ADAM/moodle-notifier) | Flask service that watches Univ Bejaïa Moodle boards and pushes new notices to students via FCM |
+| [links_scanner](https://github.com/linuxcoding-ADAM/links_scanner) | Bash URL & domain analyzer — DNS, SSL, WHOIS, plus Google Safe Browsing / VirusTotal checks |
+| [Ultimate_System_Cleaner](https://github.com/linuxcoding-ADAM/Ultimate_System_Cleaner) | Bash cleaner for Debian-based systems — temp files, caches, orphaned packages, old journal logs |
+| [data_organizer](https://github.com/linuxcoding-ADAM/data_organizer) | Zero-dependency Python CLI that sorts messy folders into category folders by extension |
+| [S2_Grade_Calc](https://github.com/linuxcoding-ADAM/S2_Grade_Calc) | React grade calculator for LMD students — weighted averages and PDF transcript export |
+
+</details>
+
 ---
 
 <div align="center">
 
 ## 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=linuxcoding-ADAM&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=0D1117&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=linuxcoding-ADAM&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=0D1117&langs_count=8" alt="top langs" />
+<table>
+<tr>
+<td>
 
-</div>
+<img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=linuxcoding-ADAM&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=0D1117&count_private=true" alt="stats" />
 
-<div align="center">
+</td>
+<td>
 
-## 📈 Contribution Activity
+<img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=linuxcoding-ADAM&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=0D1117&langs_count=8" alt="top langs" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=linuxcoding-ADAM&bg_color=0D1117&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -159,6 +177,31 @@ Multilingual youth-opportunities platform — Arabic · French · English · Kab
 <a href="https://instagram.com/_adam_mila_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://adammila.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:adam.mila.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center">
+
+<a href="https://adammila.vercel.app" target="_blank" rel="noopener noreferrer">
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=https://adammila.vercel.app&margin=6" alt="QR code linking to adammila.vercel.app" width="110" />
+</a>
+
+**scan → portfolio**
+
+</td>
+<td align="center" valign="middle">
+
+<img src="https://komarev.com/ghpvc/?username=linuxcoding-ADAM&color=2f81f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br/>
+
+*open to collaboration — just reach out*
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=80&section=footer" width="100%"/>
 
