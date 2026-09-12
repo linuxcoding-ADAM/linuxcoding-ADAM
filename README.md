@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
@@ -65,19 +66,29 @@
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-## 🚀 Projects
+A selection of what I've built — a few of my projects, not the complete list.
 
-| Project | Stack | Description |
-|:-------:|:-----:|:-----------:|
-| **Adam Hub** | `Flask` `JS` `HTML/CSS` | Web-based file sharing platform |
-| **ST Affichage** | `Python` `HTML/CSS` | Smart display & scheduling system |
-| **Adhan Countdown** | `JavaScript` `HTML/CSS` | Prayer time countdown web app |
-| **Base Converter** | `JavaScript` `HTML/CSS` | Number base conversion tool |
-| **Mini Web Apps** | `Python` `JavaScript` | Small tools & coding experiments |
+### St Affichage — university announcements, without the logins
+A platform for students at Université de Bejaïa that monitors the university's Moodle announcement boards and pushes every new notice straight to students' phones as real-time notifications. Runs as an autonomous scraping service with per-department channels, sanitized announcement feeds, and an installable mobile experience.
+`Next.js` `TypeScript` `Firebase Cloud Messaging` `Web Scraping` *(private source)*
 
-</div>
+### [Moula](https://moulaa.vercel.app) — personal finance, built around the dinar
+A mobile-first income & expense tracker for the Algerian dinar with a strict integer money model, analytics, monthly reports by email, and a security model enforced at the Firestore rules layer. The same shared code computes the numbers on screen and in the emailed reports.
+`React 19` `TypeScript` `Firebase` `Firestore` `Vercel Functions` *(private source)*
+
+### [LhadjCAD](https://github.com/linuxcoding-ADAM/LhadjCAd) — parametric CAD in the browser
+A specialized CAD engine for cabinet & furniture technical drawings. Configure doors, drawers, shelves, handles, and materials through a parametric editor, and export a dimensioned, print-ready PDF fabrication plan — no desktop CAD suite needed.
+`Next.js` `React 19` `TypeScript` `Zustand` `jsPDF` — [live demo](https://lhadjcad.vercel.app)
+
+### [Base Converter](https://github.com/linuxcoding-ADAM/Base_304) — number & text base conversion
+A sleek base converter supporting binary, quaternary, octal, decimal, hexadecimal, and UTF-8 text, with arbitrary-precision arithmetic via `BigInt`. Built with zero dependencies — pure vanilla JavaScript, HTML, and CSS.
+`Vanilla JS` `HTML` `CSS` — [live demo](https://base-304.vercel.app)
+
+### [Forsati](https://github.com/linuxcoding-ADAM/forsati) — youth opportunities, in four languages
+A multilingual platform connecting Algerian youth to ODEJ youth establishments: personalized recommendations, event registration with QR-ticketed check-in, and full Arabic/French/English/Kabyle support with RTL — built at EcoHack Chellata.
+`Next.js` `TypeScript` `Tailwind CSS` `Firebase` — [live demo](https://forsatii.vercel.app)
 
 ---
 
@@ -105,6 +116,7 @@
 ## 📞 Connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/adammila" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/_adam_mila_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://adammila.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:adam.mila.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
