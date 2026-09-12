@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=625&height=44&lines=Student%20%26%20Devaloper;Build%20First%20.%20Break%20Things%20.%20Learn%20Fast" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=625&height=44&lines=Student%20%26%20Developer;Build%20First%20.%20Break%20Things%20.%20Learn%20Fast" alt="Typing headlines" />
 </p>
 
 ---
