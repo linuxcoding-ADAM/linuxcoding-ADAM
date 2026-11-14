@@ -148,6 +148,10 @@ Multilingual youth-opportunities platform — Arabic · French · English · Kab
 
 <div align="center">
 
+
+[![My GitCity Skyline](https://gitcity.natrajx.in/api/svg?u=linuxcoding-ADAM&theme=aurora)](https://gitcity.natrajx.in/linuxcoding-ADAM/isometric)
+
+
 ## 📊 GitHub Stats
 
 <table>
