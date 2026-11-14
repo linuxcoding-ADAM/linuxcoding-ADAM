@@ -149,7 +149,17 @@ Multilingual youth-opportunities platform — Arabic · French · English · Kab
 <div align="center">
 
 
-[![My GitCity Skyline](https://gitcity.natrajx.in/api/svg?u=linuxcoding-ADAM&theme=aurora)](https://gitcity.natrajx.in/linuxcoding-ADAM/isometric)
+<div align="center">
+
+## 🏙️ My GitHub City
+
+*Every contribution builds something.*
+
+<a href="https://gitcity.natrajx.in/linuxcoding-ADAM/isometric">
+  <img src="https://gitcity.natrajx.in/api/svg?u=linuxcoding-ADAM&theme=noir" width="100%" alt="Adam's 3D GitHub contribution city"/>
+</a>
+</div>
+
 
 
 ## 📊 GitHub Stats
