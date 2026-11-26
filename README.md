@@ -47,15 +47,17 @@ I presented WLADZ to Algeria's **Minister of Youth**, who expressed interest in 
 ### ODEJ Kiosk — Béjaïa
 **In collaboration with ODEJ Béjaïa**
 
-<a href="https://odej-bejaia.netlify.app"><img src="https://img.shields.io/badge/Live_site-2f81f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site" /></a> <img src="https://img.shields.io/badge/Source-private-30363d?style=for-the-badge&labelColor=161b22" alt="Source private" />
+<a href="https://odej-bejaia.netlify.app"><img src="https://img.shields.io/badge/Live_site-2f81f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site" /></a> <a href="https://github.com/simoosh/ODEJ_KIOSK"><img src="https://img.shields.io/badge/Source-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
 
-A touch-screen kiosk presenting Béjaïa province's 67 youth establishments on an interactive 3D map, in Arabic and English, in portrait and landscape. Built for the national youth-establishments fair in Algiers (11 November 2026).
+<a href="https://odej-bejaia.netlify.app"><img src="https://raw.githubusercontent.com/linuxcoding-ADAM/linuxcoding-ADAM/main/assets/screens/odej-kiosk.jpg" width="100%" alt="ODEJ Béjaïa kiosk home screen: establishment counts by category over photos of the Béjaïa coast and a map of the province" /></a>
+
+A touch-screen kiosk presenting Béjaïa province's 68 youth establishments on an interactive 3D map, in Arabic and English, in portrait and landscape. Built for the national youth-establishments fair in Algiers (11 November 2026).
 
 **My contribution:** the establishment data and media pipeline. I structured the data for every establishment with a recorded source for each field, placed GPS pins from ODEJ's coordinate table, and encoded and published media to the CDN. I also built the establishment sheet and contact views.
 
 `React 19` · `TypeScript` · `Vite` · `MapLibre` · `Netlify` · `Cloudflare Pages`
 
-<sub>👥 Co-developed with <b>Slimane Sahnoune</b> · Source private</sub>
+<sub>👥 Co-developed with <b>Slimane Sahnoune</b></sub>
 
 </td>
 </tr>
@@ -184,7 +186,12 @@ A base converter (binary, octal, decimal, hex, quaternary and UTF-8 text) backed
 <img src="https://skillicons.dev/icons?i=linux,bash,py,js,ts,react,nextjs,nodejs,tailwind,html,css,git,github,postgres,vite&perline=15&theme=dark" alt="Linux, Bash, Python, JavaScript, TypeScript, React, Next.js, Node.js, Tailwind CSS, HTML, CSS, Git, GitHub, PostgreSQL, Vite" />
 
 **Familiar**: practical experience, used when a project calls for it<br/>
-<img src="https://skillicons.dev/icons?i=rust,threejs,firebase,flask,sqlite,prisma,githubactions,vercel&theme=dark" alt="Rust, Three.js, Firebase, Flask, SQLite, Prisma, GitHub Actions, Vercel" />
+<img src="https://skillicons.dev/icons?i=rust,threejs,firebase,flask,sqlite,prisma,vitest&theme=dark" alt="Rust, Three.js, Firebase, Flask, SQLite, Prisma, Vitest" />
+
+**Tools & platforms**<br/>
+<img src="https://skillicons.dev/icons?i=figma,vscode,githubactions,vercel,netlify,cloudflare&theme=dark" alt="Figma, VS Code, GitHub Actions, Vercel, Netlify, Cloudflare" />
+
+**Also**: `REST APIs` · `CI/CD` · `Network administration` · `Hardware & software maintenance`
 
 **Learning**: `Cybersecurity` · `Cloud Infrastructure` · `DevOps` · `AI Engineering`
 
