@@ -18,23 +18,7 @@ I build **web platforms, Linux tools and interactive educational software**: a R
 
 I'm an undergraduate in my **second year (L2) of Science & Technology** at the University of Béjaïa, with a Baccalaureate in Technical Mathematics (Electrical Engineering). Linux has been my daily driver for four years.
 
-```console
-adam@bejaia:~$ whoami
-
-  Adam Mila — developer & engineering student
-  ───────────────────────────────────────────────────────────
-  location    Akbou, Béjaïa · Algeria
-  studying    Science & Technology, L2 · University of Béjaïa
-  background  Bac in Technical Mathematics (Electrical Eng.)
-  daily       Fedora Linux · zsh · VS Code
-  building    Rust TUIs · Next.js platforms · Three.js games
-  focus       full-stack web · Linux & systems · scripting
-  motto       build first, break things, learn fast
-
-adam@bejaia:~$ ls ~/dev          # ordered by engineering depth, not by date
-
-  salat/  odej-kiosk/  wladz/  forsati/  lhadjcad/  moula/  base_304/
-```
+<img src="https://raw.githubusercontent.com/linuxcoding-ADAM/linuxcoding-ADAM/main/assets/terminal.svg" width="100%" alt="Terminal running whoami: Adam Mila, developer and engineering student — Akbou, Béjaïa; Science &amp; Technology L2, University of Béjaïa; Bac in Technical Mathematics; Fedora Linux, zsh, VS Code; building Rust TUIs, Next.js platforms and Three.js games. ls ~/dev lists salat, odej-kiosk, wladz, forsati, lhadjcad, moula and base_304." />
 
 ---
 
@@ -61,7 +45,9 @@ I presented WLADZ to Algeria's **Minister of Youth**, who expressed interest in 
 <td valign="top" width="50%">
 
 ### ODEJ Kiosk — Béjaïa
-**In collaboration with ODEJ Béjaïa** · [**▶ live site**](https://odej-bejaia.netlify.app)
+**In collaboration with ODEJ Béjaïa**
+
+<a href="https://odej-bejaia.netlify.app"><img src="https://img.shields.io/badge/Live_site-2f81f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site" /></a> <img src="https://img.shields.io/badge/Source-private-30363d?style=for-the-badge&labelColor=161b22" alt="Source private" />
 
 A touch-screen kiosk presenting Béjaïa province's 67 youth establishments on an interactive 3D map, in Arabic and English, in portrait and landscape. Built for the national youth-establishments fair in Algiers (11 November 2026).
 
@@ -81,7 +67,9 @@ A touch-screen kiosk presenting Béjaïa province's 67 youth establishments on a
 
 ### 🕌 [Salat](https://github.com/linuxcoding-ADAM/Salat) · prayer times and Adhan for the Linux terminal
 
-A keyboard-first Rust TUI in the spirit of `btop` and `lazygit`, plus a headless `salat daemon` that runs as a sandboxed **systemd** user unit. [Landing page ↗](https://salat-website.vercel.app)
+A keyboard-first Rust TUI in the spirit of `btop` and `lazygit`, plus a headless `salat daemon` that runs as a sandboxed **systemd** user unit.
+
+<a href="https://github.com/linuxcoding-ADAM/Salat"><img src="https://img.shields.io/badge/Source-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a> <a href="https://salat-website.vercel.app"><img src="https://img.shields.io/badge/Website-2f81f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 
 <a href="https://github.com/linuxcoding-ADAM/Salat"><img src="https://raw.githubusercontent.com/linuxcoding-ADAM/Salat/HEAD/docs/images/dashboard.png" width="100%" alt="Salat's terminal dashboard: next-prayer countdown, today's prayer list and service status" /></a>
 
@@ -97,7 +85,7 @@ A keyboard-first Rust TUI in the spirit of `btop` and `lazygit`, plus a headless
 <td valign="top" width="50%">
 
 ### 🌍 [Forsati](https://github.com/linuxcoding-ADAM/forsati) · فرصتي
-[**▶ live demo**](https://forsatii.vercel.app)
+<a href="https://forsatii.vercel.app"><img src="https://img.shields.io/badge/Live_demo-2f81f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a> <a href="https://github.com/linuxcoding-ADAM/forsati"><img src="https://img.shields.io/badge/Source-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
 
 <a href="https://forsatii.vercel.app"><img src="https://raw.githubusercontent.com/linuxcoding-ADAM/forsati/HEAD/docs/desktop-home.png" width="100%" alt="Forsati home screen with joined events, recommended events and nearby youth institutions" /></a>
 
@@ -115,7 +103,7 @@ One mobile-first hub for the ODEJ youth establishments across Béjaïa, so young
 <td valign="top" width="50%">
 
 ### 📐 [LhadjCAD](https://github.com/linuxcoding-ADAM/LhadjCAd) · parametric CAD in the browser
-[**▶ live demo**](https://lhadjcad.vercel.app)
+<a href="https://lhadjcad.vercel.app"><img src="https://img.shields.io/badge/Live_demo-2f81f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a> <a href="https://github.com/linuxcoding-ADAM/LhadjCAd"><img src="https://img.shields.io/badge/Source-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
 
 <a href="https://lhadjcad.vercel.app"><img src="https://raw.githubusercontent.com/linuxcoding-ADAM/linuxcoding-ADAM/main/assets/screens/lhadjcad-editor.png" width="100%" alt="LhadjCAD editor: configuration sidebar and a dimensioned two-door wardrobe on the drawing sheet" /></a>
 
@@ -139,7 +127,8 @@ Dimensioned, print-ready cabinet fabrication plans, without a desktop CAD suite.
 <tr>
 <td valign="top" width="50%">
 
-**💰 Moula** · [live](https://moulaa.vercel.app) · <sub>source private</sub><br/>
+**💰 Moula**<br/>
+<a href="https://moulaa.vercel.app"><img src="https://img.shields.io/badge/Live_demo-2f81f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a> <img src="https://img.shields.io/badge/Source-private-30363d?style=for-the-badge&labelColor=161b22" alt="Source private" /><br/>
 <a href="https://moulaa.vercel.app"><img src="https://raw.githubusercontent.com/linuxcoding-ADAM/linuxcoding-ADAM/main/assets/screens/moula-landing.png" width="100%" alt="Moula landing page with a dashboard preview of balance, income, expenses and recent transactions" /></a><br/>
 Personal finance in Algerian dinars, built on a **strict integer money model**. The financial core has **204 unit tests**, and the Firestore security rules are tested against the emulator.<br/>
 `React 19` · `TypeScript` · `Firebase` · `Vercel Functions`
@@ -148,6 +137,7 @@ Personal finance in Algerian dinars, built on a **strict integer money model**. 
 <td valign="top" width="50%">
 
 **🎓 [ST Affichage](https://github.com/linuxcoding-ADAM/moodle-notifier)**<br/>
+<a href="https://github.com/linuxcoding-ADAM/moodle-notifier"><img src="https://img.shields.io/badge/Source-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a><br/>
 <img src="https://raw.githubusercontent.com/linuxcoding-ADAM/moodle-notifier/HEAD/screenshots/desktop-dark.png" width="100%" alt="ST Affichage announcement feed with search" /><br/>
 Watches the University of Béjaïa's Moodle announcement boards, detects new notices with **SHA-256 hashing**, sanitizes them, and pushes them to students over Firebase Cloud Messaging.<br/>
 `Python` · `Flask` · `BeautifulSoup4` · `FCM`
@@ -157,7 +147,8 @@ Watches the University of Béjaïa's Moodle announcement boards, detects new not
 <tr>
 <td valign="top" width="50%">
 
-**📊 [S2 Grade Calc](https://github.com/linuxcoding-ADAM/S2_Grade_Calc)** · [live](https://s2-grade-calc.vercel.app)<br/>
+**📊 [S2 Grade Calc](https://github.com/linuxcoding-ADAM/S2_Grade_Calc)**<br/>
+<a href="https://s2-grade-calc.vercel.app"><img src="https://img.shields.io/badge/Live_demo-2f81f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a> <a href="https://github.com/linuxcoding-ADAM/S2_Grade_Calc"><img src="https://img.shields.io/badge/Source-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a><br/>
 <a href="https://s2-grade-calc.vercel.app"><img src="https://raw.githubusercontent.com/linuxcoding-ADAM/S2_Grade_Calc/HEAD/screenshots/desktop-dark.png" width="100%" alt="S2 Grade Calc module entry form in dark mode" /></a><br/>
 L1 LMD semester grades, computed with each module's official weighting and coefficient. It shows the mention instantly and exports a PDF transcript.<br/>
 `React` · `Vite` · `jsPDF` · `Recharts`
@@ -165,7 +156,8 @@ L1 LMD semester grades, computed with each module's official weighting and coeff
 </td>
 <td valign="top" width="50%">
 
-**🔢 [Base_304](https://github.com/linuxcoding-ADAM/Base_304)** · [live](https://base-304.vercel.app)<br/>
+**🔢 [Base_304](https://github.com/linuxcoding-ADAM/Base_304)**<br/>
+<a href="https://base-304.vercel.app"><img src="https://img.shields.io/badge/Live_demo-2f81f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a> <a href="https://github.com/linuxcoding-ADAM/Base_304"><img src="https://img.shields.io/badge/Source-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a><br/>
 <a href="https://base-304.vercel.app"><img src="https://raw.githubusercontent.com/linuxcoding-ADAM/Base_304/HEAD/screenshots/desktop-dark.png" width="100%" alt="Base_304 converter interface in dark mode" /></a><br/>
 A base converter (binary, octal, decimal, hex, quaternary and UTF-8 text) backed by **`BigInt`**, so large values never lose precision. It has zero dependencies.<br/>
 `Vanilla JS` · `HTML` · `CSS`
